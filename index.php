@@ -1,5 +1,5 @@
 <?php
 
-echo "Falcon Meet"
+echo "Falcon Meet";
 
 ?>
